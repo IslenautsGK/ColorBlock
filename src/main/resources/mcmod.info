@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "color_block",
+        "name": "Color Block",
+        "description": "Color Block",
+        "version": "${version}",
+        "url": "",
+        "authorList": ["Is_GK"],
+        "credits": "Forge guys",
+        "logoFile": "logo.png",
+        "screenshots": [],
+        "useDependencyInformation": true,
+        "requiredMods": [],
+        "dependencies": []
+    }
+]

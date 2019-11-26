@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "all": "color_block:blocks/color_block"
+        },
+        "model": "color_block:color_block"
+    },
+    "variants": {
+        "normal": {
+            "model": "cube_all"
+        },
+        "marked_face": {
+            "0": {},
+            "1": {},
+            "2": {},
+            "3": {},
+            "4": {},
+            "5": {},
+            "6": {}
+        }
+    }
+}
